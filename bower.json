@@ -1,0 +1,24 @@
+{
+  "name": "angular-fix-on-scroll",
+  "version": "0.1.1",
+  "homepage": "https://github.com/locator-kn/angular-fix-on-scroll",
+  "authors": [
+    "Dennis Moosmann <dennis.moosmann@gmx.de>"
+  ],
+  "description": "Angular directive to fix the position of a html element at the top of the screen when user is scrolling",
+  "main": "js/directive.js",
+  "keywords": [
+    "angular",
+    "directive",
+    "scroll",
+    "fix"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
